@@ -1,0 +1,2 @@
+## What i added  
+i made it so there was more then 1 food on the map to speed it up along with the gradual speed boosts from food aswell to make the game go a little faster aswell as  made the snake somewhat look like a weiner dog not really though in all honesty but its close anbd the gradient should be in effect where hes more yellow near the end acting like his butt cuz my dogs butt is a complete different color from the rest of his fur and things like the start screen and highscore are just QOL and basic things in games like this.
