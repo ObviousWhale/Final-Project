@@ -24,3 +24,15 @@ PART 2
 // add highscore text next to the lives text
 // 
 one thing i had to fix was makeing the spaceship on your side appear it wasnt showing up
+
+//i want there to be 5 levels start with small pac man like mazes with the maze increaseing in size everytime
+//make it so i can move with  W A S D in the pac man game 
+//could you add a like a level picker and a start screen
+//make it so theres a screen between going to a new level
+//make it so the animations are a little smoother it looks kinda jumpys
+//could you change up the maze maps map them more unqie and diff shapes and such ( i had to fix some maps as you couldnt move in some of them AKA you were trapped)
+//adjust level 3 4 and 5 be to be a little bigger
+//could you make it so every now and then a pellet will give you a speed boost but it only lasts like 1 second and you cant get a speed pellet while one is active either and make it so you cant get one 2 seconds after the last one ended 
+//add the portals to go from 1 side of the map to the other like the orgin pac man 
+//add multiple mortals to diff spots on the bigger maps 
+// change the design for level 5 make it more complex
